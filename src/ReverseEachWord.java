@@ -2,7 +2,7 @@ public class ReverseEachWord
 {
     public static void main (String [] args)
     {
-        String str = "Hello World";
+        String str = "Hello Worlds";
         printEachWordReverse(str);
 
     }

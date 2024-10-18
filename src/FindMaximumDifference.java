@@ -7,7 +7,7 @@ public class FindMaximumDifference {
 
     private static void printMaximumDifference(int [] arr)
     {
-        //Approach find greatest and smallest number in java and then subtract it.
+          //Approach find greatest and smallest number in java and then subtract it.
         int max = arr[0];
         int min = arr[0];
 

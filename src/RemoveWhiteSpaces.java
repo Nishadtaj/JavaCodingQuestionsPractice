@@ -2,7 +2,7 @@ public class RemoveWhiteSpaces
 {
     public static void main (String[] args)
     {
-        String str = "         Hello              Japne     et         ";
+        String str = "         Hello              Nishad     et         ";
         System.out.print(removeWhiteSpace(str));
     }
 

@@ -5,7 +5,7 @@ public class FindFirstNonRepeatedCharacter
 {
     public static void main (String [] args)
     {
-        String str = "swiss";
+        String str = "swisss";
         findNonRepeatingCharacter(str);
     }
 
