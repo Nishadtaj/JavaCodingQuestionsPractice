@@ -5,7 +5,7 @@ public class RemoveDuplicateWordsFromSentence
 {
     public static void main (String [] args)
     {
-        String str = "Hello I am Japneet Japneet am";
+        String str = "Hello I am Nishad Nishad am";
         printSentenceWithoutDuplicates(str);
     }
 

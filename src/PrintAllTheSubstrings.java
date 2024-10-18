@@ -3,7 +3,7 @@ public class PrintAllTheSubstrings
     public static void main (String [] args)
 
     {
-        String str = "abc";
+        String str = "abcd";
         printSubstrings(str);
     }
 

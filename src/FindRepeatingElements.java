@@ -32,7 +32,7 @@ public class FindRepeatingElements
 
         System.out.println(map);
 
-        //Now we need to retrieve only keys which are greater than value = 1
+            //Now we need to retrieve only keys which are greater than value = 1
 
         for(Map.Entry<Integer, Integer> mapEntry : map.entrySet())
         {

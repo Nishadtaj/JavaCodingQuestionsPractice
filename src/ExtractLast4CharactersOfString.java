@@ -2,7 +2,7 @@ public class ExtractLast4CharactersOfString
 {
     public static void main (String[] args)
     {
-        String str = "swiss";
+        String str = "swisss";
         printLast4Chars(str);
     }
 

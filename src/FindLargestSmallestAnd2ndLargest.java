@@ -26,7 +26,7 @@ public class FindLargestSmallestAnd2ndLargest
                 smallest = arr[i];
             }
 
-            //System.out.println(largest+" "+secondLargest+" "+" "+smallest);
+              //System.out.println(largest+" "+secondLargest+" "+" "+smallest);
         }
 
         System.out.print(largest+" "+secondLargest+" "+" "+smallest);
